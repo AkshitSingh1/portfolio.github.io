@@ -1,4 +1,4 @@
 # portfolio.github.io
 ---
-permalink: /portfolio.html
+permalink: /index.html
 ---
